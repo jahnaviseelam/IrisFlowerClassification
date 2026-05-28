@@ -9,7 +9,7 @@ This is a beginner Machine Learning project using the Iris dataset.
 - NumPy
 
 ## ML Algorithm
-- K-Nearest Neighbors (KNN)
+- Random Forest
 
 ## Features
 - Predicts iris flower species
